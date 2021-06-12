@@ -1,0 +1,19 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "schedule.js",
+  "scripts": {
+    "start": "node schedule.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^10.0.0"
+  },
+  "dependencies": {
+    "exceljs": "^4.2.1",
+    "xlsx": "^0.17.0"
+  }
+}
